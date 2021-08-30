@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **Personal Blog** 
-- 🌱 I’m currently learning **C++/C#/Python/Ruby**
+- 🌱 I’m currently improving knowledge of my **C++/C#/Python/Ruby**
 
 <!--
 **Liffrey/liffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
