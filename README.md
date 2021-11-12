@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **Personal Blog** 
+- 🔭 I’m currently working on **DevOps** 
 - 🌱 I’m currently improving knowledge of my **C++/C#/Python/Ruby**
 
 <!--
