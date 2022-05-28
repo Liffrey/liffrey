@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **IT things** 
-- 🌱 I’m currently improving knowledge of my **C++/C#/Python**
-- 
+- 🌱 I’m currently improving knowledge of my **C++/Go**
 <!--
 **Liffrey/liffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
